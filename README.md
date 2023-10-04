@@ -16,6 +16,8 @@
   - Optimizations: Chapter 6 (April 2023)
     - [SGD Optimizers (6.2), Expectation Maximization (6.5), Bayesian Optimization (6.6)](https://www.youtube.com/watch?v=mpiByVB4qNI)
 
+## Blogs
+- [Impact of LLMs on labor market - Research and paper from OpenAI/Wharton on 3/20/23](https://github.com/devvidhani/Evolving-observations-summaries-notes-and-insights-on-AI-ML-trends/blob/master/OpenAI_Wharton_LLM_LLMPlus_Labor_Market_Impact.md)
 ## Slides
 - [Variational Inference](https://docs.google.com/presentation/d/1DSLxVRqp_ffLN70q7jkiMkg9GP4Mm8SAP5xbkfGeJLY/edit?usp=sharing)
 - [Alphafold 2](https://docs.google.com/presentation/d/1KucKjQslso3BDcv-1kS6xS8KNI5RcwPL33DMyoQfdXo/edit?usp=sharing)
