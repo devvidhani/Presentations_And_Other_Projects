@@ -1,4 +1,5 @@
-# Presentations
+# Professional Activities
+This site documents all professional engagements, including presentations, blogs, slides created, pointers to team projects, actvities/memberships, etc.
 
 ## YouTube Recordings of Presentations
 - Score Based Generative Models (Led discussion on Score Based Generative Models at West Coast Machine Learning Meetup in September 2023)
@@ -16,14 +17,18 @@
   - Optimizations: Chapter 6 (April 2023)
     - [SGD Optimizers (6.2), Expectation Maximization (6.5), Bayesian Optimization (6.6)](https://www.youtube.com/watch?v=mpiByVB4qNI)
 
+## Other team projects
+- [Satellite images captions using CLIP](https://github.com/arampacha/CLIP-rsicd) done as part of HuggingFace sprint in 2021 along with team members, Sujit Pol, et. al. Here is the [blog by Sujit](https://huggingface.co/blog/fine-tune-clip-rsicd).
 ## Blogs
 - [Impact of LLMs on labor market - Research and paper from OpenAI/Wharton on 3/20/23](https://github.com/devvidhani/Evolving-observations-summaries-notes-and-insights-on-AI-ML-trends/blob/master/OpenAI_Wharton_LLM_LLMPlus_Labor_Market_Impact.md)
 ## Slides
 - [Variational Inference](https://docs.google.com/presentation/d/1DSLxVRqp_ffLN70q7jkiMkg9GP4Mm8SAP5xbkfGeJLY/edit?usp=sharing)
 - [Alphafold 2](https://docs.google.com/presentation/d/1KucKjQslso3BDcv-1kS6xS8KNI5RcwPL33DMyoQfdXo/edit?usp=sharing)
 
-## Active Contributor
+## Active Communities/Memberships/Contributor
 - [West Coast Machine Learning Meetup](https://www.youtube.com/@WestCoastMachineLearning/videos) Weekly Meetings: [Deep Learning Paper Club & Coding Weekly Meetings](https://www.meetup.com/east-bay-tri-valley-machine-learning-meetup/) 
 - [San Diego Machine Learning Meetup](https://www.youtube.com/@SanDiegoMachineLearning/playlists) and various topics meetings
 - [Deep Learning Study Group](https://www.meetup.com/handsonprogrammingevents/events/296254419/) at Silicon Valley Hands On Programming Events, Santa Clara
 - [Deep Learning Study Group (San Francisco)](https://www.meetup.com/deep-learning-sf/)
+- [Eleuther AI's Diffusion Reading Group](https://github.com/tmabraham/diffusion_reading_group) and [YouTube recordings](https://www.youtube.com/playlist?list=PLXqc0KMM8ZtKVEh8fIWEUaIU43SmWnfdM)
+- [Yannic Kilcher's Discord's Open Machine Learning Paper Discussion Group](https://discord.com/channels/714501525455634453/719652499740688404)
