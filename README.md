@@ -1,6 +1,14 @@
 # Professional Activities
 This site documents all professional engagements, including presentations, blogs, slides created, pointers to team projects, actvities/memberships, etc.
 
+## Index
+## Index
+* [YouTube Recordings of Presentations](#youtube-recordings-of-presentations)
+* [Other team projects](#other-team-projects)
+* [Blogs](#blogs)
+* [Slides](#slides)
+* [Misc: Active Communities/Memberships/Contributor, Etc.](#active-communitiesmembershipscontributor)
+
 ## YouTube Recordings of Presentations
 - Score Based Generative Models (Led discussion on Score Based Generative Models at West Coast Machine Learning Meetup in September 2023)
   - [Presentation #4: To be uploaded](TBD)
