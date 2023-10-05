@@ -2,7 +2,6 @@
 This site documents all professional engagements, including presentations, blogs, slides created, pointers to team projects, actvities/memberships, etc.
 
 ## Index
-## Index
 * [YouTube Recordings of Presentations](#youtube-recordings-of-presentations)
 * [Other team projects](#other-team-projects)
 * [Blogs](#blogs)
