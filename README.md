@@ -15,14 +15,17 @@ This site documents all professional engagements, including presentations, blogs
   - [Presentation #2](https://www.youtube.com/watch?v=HdEc7i2-HWk)
   - [Presentation #1](https://www.youtube.com/watch?v=ZTt0Gtv2iDM)
 
-- Probabilistic Machine Learning: Advanced Topics by Kevin Patrick Murphy. MIT Press, 2023. Book Reading ([Book Link](https://probml.github.io/pml-book/book2.html) and the  [Book Reading Club Link](https://www.youtube.com/playlist?list=PLmp4AHm0u1g3xuIHtrT37yOZCj51lWqic))
+- Probabilistic Machine Learning: Advanced Topics by Kevin Patrick Murphy. MIT Press, 2023. Book Reading ([Book Link](https://probml.github.io/pml-book/book2.html) and the  [Book Reading Club Link](https://www.youtube.com/playlist?list=PLmp4AHm0u1g3xuIHtrT37yOZCj51lWqic) and GitHub[[probabilistic-ml.md](https://github.com/SanDiegoMachineLearning/bookclub/blob/master/probabilistic-ml.md)])
   - Variational Inference: Chapter 10a (June 2023)
     - [Variational Inference Presentation #3](https://www.youtube.com/watch?v=xIq-DU7dwW8)
     - [Variational Inference Presentation #2: To be uploaded](TBD)
     - [Variational Inference Presentation #1: To be uploaded](TBD)
-
   - Optimizations: Chapter 6 (April 2023)
-    - [SGD Optimizers (6.2), Expectation Maximization (6.5), Bayesian Optimization (6.6)](https://www.youtube.com/watch?v=mpiByVB4qNI)
+    - [SGD Optimizers # 2 (6.2), Expectation Maximization (6.5), Bayesian Optimization (6.6)](https://www.youtube.com/watch?v=mpiByVB4qNI)
+    - [SGD Optimizers # 1 (6.2), Expectation Maximization (6.5), Bayesian Optimization (6.6)](https://www.youtube.com/watch?v=mpiByVB4qNI)
+  - Probabilistic Graphical Models (PGMs) (March 2023)
+    - [Graphical Models Session # 2: Video to be uploaded](https://github.com/SanDiegoMachineLearning/bookclub/blob/master/probabilistic-ml.md)
+    - [Graphical Models Session # 1: Video to be uploaded](https://github.com/SanDiegoMachineLearning/bookclub/blob/master/probabilistic-ml.md)
 
 ## Other team projects
 - [Satellite images captions using CLIP](https://github.com/arampacha/CLIP-rsicd) done as part of HuggingFace sprint in 2021 along with team members, Sujit Pol, et. al. Here is the [blog by Sujit](https://huggingface.co/blog/fine-tune-clip-rsicd).
