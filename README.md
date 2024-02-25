@@ -9,11 +9,13 @@ This site documents all professional engagements, including presentations, blogs
 * [Misc: Active Communities/Memberships/Contributor, Etc.](#active-communitiesmembershipscontributor)
 
 ## YouTube Recordings of Presentations
-- Score Based Generative Models (Led discussion on Score Based Generative Models at West Coast Machine Learning Meetup in September 2023)
-  - [Presentation #4: To be uploaded](TBD)
-  - [Presentation #3: To be uploaded](TBD)
-  - [Presentation #2](https://www.youtube.com/watch?v=HdEc7i2-HWk)
-  - [Presentation #1](https://www.youtube.com/watch?v=ZTt0Gtv2iDM)
+- Diffusion Models (Score Based Generative Models topics at West Coast Machine Learning Meetup in September 2023)
+  - [Consistency Models](https://youtu.be/g5pOMF3EDXo)
+  - Score Based Generative Models
+    - [Presentation #4](https://youtu.be/WPvwkqXSx6o)
+    - [Presentation #3](https://youtu.be/R9vv0EgZ8hY)
+    - [Presentation #2](https://www.youtube.com/watch?v=HdEc7i2-HWk)
+    - [Presentation #1](https://www.youtube.com/watch?v=ZTt0Gtv2iDM)
 
 - Probabilistic Machine Learning: Advanced Topics by Kevin Patrick Murphy. MIT Press, 2023. Book Reading ([Book Link](https://probml.github.io/pml-book/book2.html) and the  [Book Reading Club Link](https://www.youtube.com/playlist?list=PLmp4AHm0u1g3xuIHtrT37yOZCj51lWqic) and GitHub[[probabilistic-ml.md](https://github.com/SanDiegoMachineLearning/bookclub/blob/master/probabilistic-ml.md)])
   - Variational Inference: Chapter 10a (June 2023)
@@ -32,6 +34,8 @@ This site documents all professional engagements, including presentations, blogs
 ## Blogs
 - [Impact of LLMs on labor market - Research and paper from OpenAI/Wharton on 3/20/23](https://github.com/devvidhani/Evolving-observations-summaries-notes-and-insights-on-AI-ML-trends/blob/master/OpenAI_Wharton_LLM_LLMPlus_Labor_Market_Impact.md)
 ## Slides
+- [Score Models to Diffusion Models to Consistency Models
+](https://docs.google.com/presentation/d/1lDfZ7_Gi0Ce6QVMZbYZRXPkmKdbL8pJ91jybG7dwxIw)
 - [Variational Inference](https://docs.google.com/presentation/d/1DSLxVRqp_ffLN70q7jkiMkg9GP4Mm8SAP5xbkfGeJLY/edit?usp=sharing)
 - [Alphafold 2](https://docs.google.com/presentation/d/1KucKjQslso3BDcv-1kS6xS8KNI5RcwPL33DMyoQfdXo/edit?usp=sharing)
 
